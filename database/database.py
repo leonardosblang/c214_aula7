@@ -1,7 +1,7 @@
 import pymongo
 from model.movies import Movies
 
-client = pymongo.MongoClient("YOURSTRINGCONNECTION")
+client = pymongo.MongoClient("CONNECTION")
 
 db = client["movies"]
 
