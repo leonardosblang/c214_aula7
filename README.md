@@ -18,6 +18,6 @@ python -m unittest
 ```
 
 <p align="center">
-  <img height="256" src="imgs/imagem1.png" />
+  <img height="256" src="imgs/imagem1.PNG" />
 </p>
 
