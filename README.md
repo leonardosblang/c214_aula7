@@ -1,5 +1,4 @@
-# Python FastAPI - CRUD
-API utilizando Mongo DB
+# Testes unitários de API 
 
 ## Instação e rodar
 
@@ -12,8 +11,9 @@ pip install pymongo
 pip install dnspython
 ```
 
-Rodar
+Rodar Testes
 
 ```bash
-uvicorn main:app
+python -m unittest
 ```
+
